@@ -1,3 +1,9 @@
+---
+layout: post
+title: sequest
+---
+
+
 블로그에 처음으로 소개할 내용은 proteomics의 db search tool 인 Sequest입니다.   
 
 
